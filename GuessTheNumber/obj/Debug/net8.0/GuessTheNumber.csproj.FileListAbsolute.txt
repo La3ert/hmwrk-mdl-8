@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\Homeworks\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
