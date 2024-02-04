@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.exe
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.deps.json
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.dll
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.pdb
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.dll
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\refint\ComplexNumbers.dll
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.pdb
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\Homeworks\ComplexNumbers\obj\Debug\net8.0\ref\ComplexNumbers.dll
